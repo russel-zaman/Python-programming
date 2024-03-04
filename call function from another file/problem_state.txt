@@ -1,0 +1,4 @@
+The way of calling a function from another .py file 
+use "import file_name.py" first in the main program.py file
+to use the function first file name and then function has to call 
+here check guess is the main program ; others file are called in that file
